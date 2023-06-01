@@ -1,0 +1,51 @@
+@media (max-width: 1880px) { 
+ 
+}
+@media (max-width: 1780px) { 
+ 
+}
+@media (max-width: 1680px) {  
+  
+
+}
+@media (max-width: 1540px) {
+ 
+
+}
+@media (max-width: 1480px) {  
+ 
+
+}
+@media (max-width: 1367px) { 
+ 
+}
+ 
+
+@media (max-width: 1280px) {
+ 
+}
+
+@media (max-width: 1199px) {
+    .body_wrap { width: calc(100% - 290px);  }
+    .sidbar_wrap {  width: 290px;  }
+}
+@media (max-width: 1080px) {
+ 
+}
+@media (max-width: 991px) {
+ 
+}
+@media (max-width: 768px) {
+ 
+}
+@media (max-width: 568px) {
+ 
+ }
+
+@media (max-width: 480px) {
+   
+}
+@media (max-width: 375px) {
+ 
+
+}
